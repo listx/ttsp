@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme type="sound" name="Tokyo Train Station for Pidgin" author="Linus Arver">
+	<description>This is a port of the famous "Tokyo Train Station" sound theme for Adium. All credits go to Dominik Dimaano, known as "MrRoboto".</description>
+	<event name="login"         file="On.aif"/>
+	<event name="logout"        file="Off.aif"/>
+	<event name="first_im_recv" file="New.aif"/>
+	<event name="im_recv"       file="CRcv.aif"/>
+	<event name="send_im"       file="CSnd.aif"/>
+</theme>
